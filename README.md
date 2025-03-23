@@ -1,4 +1,4 @@
-# Anime-Recommendation-Chatbot-using-Hybrid-Filtering-Transformers-with-impact-of-Genre-Diversity.
+## Anime-Recommendation-Chatbot-using-Hybrid-Filtering-Transformers-with-impact-of-Genre-Diversity.
 
 Data Collection and Preprocessing: Dataset, Preprocessing: Cleaned and structured data, handled missing values, normalized ratings, and applied one-hot encoding for genres.
 
