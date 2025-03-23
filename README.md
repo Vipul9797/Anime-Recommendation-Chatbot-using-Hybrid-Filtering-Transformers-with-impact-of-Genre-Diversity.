@@ -8,4 +8,5 @@ Collaborative Filtering: Matrix Factorization (e.g., Non-negative Matrix Factori
 
 Hybrid Model with Genre Diversity: Combines content-based and collaborative filtering, Genre Diversity Score (GDS)
 
-User Interface: Streamlit,  ngrok
+# User Interface: 
+Streamlit,  ngrok
